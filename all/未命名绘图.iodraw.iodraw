@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-26" value="站立" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-26" value="站立" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-28" value="移动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-28" value="移动" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="440" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2ERfDJ57A2VsBJ_v0gX-29" value="跳跃" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
