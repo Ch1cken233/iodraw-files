@@ -10,7 +10,7 @@
         <mxCell id="V2ERfDJ57A2VsBJ_v0gX-28" value="移动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-29" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-29" value="跳跃" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2ERfDJ57A2VsBJ_v0gX-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V2ERfDJ57A2VsBJ_v0gX-26" target="V2ERfDJ57A2VsBJ_v0gX-28">
