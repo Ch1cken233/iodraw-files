@@ -4,54 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-9" value="主游戏循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;游戏控制模块&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="150" width="150" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-11" value="用户输入处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-12" value="画面渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-13" value="游戏对象模块" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="110" y="300" width="150" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-14" value="场景管理系统" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="110" y="440" width="150" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-15" value="马里奥角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-16" value="敌人系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-17" value="障碍物系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-18" value="关卡加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-19" value="场景切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-20" value="重置功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-22" value="资源管理模块" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="110" y="560" width="150" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-23" value="图像资源加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-24" value="动画管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V2ERfDJ57A2VsBJ_v0gX-25" value="重置功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
